@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map1
+  - Object
+  - Bound1
+  - Bound
+  - Bound3
+  - Bound2
+  - Map3
+  - Map
+  - Map2
+  - Potal
+  - Ground
+  - Bullet
+  - LoginIDInput
+  - LoginPasswordInput
+  - SignUpIDInput
+  - SignUpPasswordInput
+  - SignUpVerifyPasswordInput
+  - NickNameInput
+  - Boundbotleft
+  - Boundbotright
+  - Boundtop
+  - Boundpotal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - myplayer
+  - object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: mylayer
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
+    locked: 0
